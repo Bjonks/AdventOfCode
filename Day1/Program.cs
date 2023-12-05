@@ -7,8 +7,8 @@ namespace day1
     {
         static void Main()
         {
-            
-            
+            int sum = 0;
+            int summa = 0;
             string path = @".\textfile.txt";
             string lines = File.ReadAllText (path);
           
@@ -19,14 +19,23 @@ namespace day1
            
            foreach (var i in numbers)
            {
+            int last = i.Length - 2;
+           // Console.WriteLine(last);
+           if (last >= 0)
+           {
             int first = Convert.ToInt32(i.Substring(0,1));
             int second = Convert.ToInt32(i.Substring(last,1));
-           // int second = i.LastIndexOf('.');
-           // int sum = first * 10 + second;
-        
-              Console.WriteLine(second);
+         
+            sum += first * 10 + second;
+            
            }
-
+            else
+            {
+            break;
+            }
+             Console.WriteLine(sum);
+           }
+               
           
 
 
