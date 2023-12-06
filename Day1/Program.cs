@@ -1,6 +1,6 @@
 ﻿using System.IO;
 using System.Text.RegularExpressions;
-using System.Linq;
+
 namespace day1
 {
     class day1
@@ -8,7 +8,7 @@ namespace day1
         static void Main()
         {
             int sum = 0;
-            int summa = 0;
+            
             string path = @".\textfile.txt";
             string lines = File.ReadAllText (path);
           
@@ -19,7 +19,7 @@ namespace day1
            
            foreach (var i in numbers)
            {
-            int last = i.Length - 2;
+            int last = i.Length-2;
            // Console.WriteLine(last);
            if (last >= 0)
            {
@@ -27,13 +27,13 @@ namespace day1
             int second = Convert.ToInt32(i.Substring(last,1));
          
             sum += first * 10 + second;
-            
+            Console.WriteLine(sum);
            }
             else
             {
             break;
             }
-             Console.WriteLine(sum);
+             
            }
                
           
