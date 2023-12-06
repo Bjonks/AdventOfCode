@@ -1,0 +1,14 @@
+C:\Users\osan51030\Desktop\c#\Adventcode\Day1\Solution B\bin\Debug\net7.0\Day1.exe
+C:\Users\osan51030\Desktop\c#\Adventcode\Day1\Solution B\bin\Debug\net7.0\Day1.deps.json
+C:\Users\osan51030\Desktop\c#\Adventcode\Day1\Solution B\bin\Debug\net7.0\Day1.runtimeconfig.json
+C:\Users\osan51030\Desktop\c#\Adventcode\Day1\Solution B\bin\Debug\net7.0\Day1.dll
+C:\Users\osan51030\Desktop\c#\Adventcode\Day1\Solution B\bin\Debug\net7.0\Day1.pdb
+C:\Users\osan51030\Desktop\c#\Adventcode\Day1\Solution B\obj\Debug\net7.0\Day1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osan51030\Desktop\c#\Adventcode\Day1\Solution B\obj\Debug\net7.0\Day1.AssemblyInfoInputs.cache
+C:\Users\osan51030\Desktop\c#\Adventcode\Day1\Solution B\obj\Debug\net7.0\Day1.AssemblyInfo.cs
+C:\Users\osan51030\Desktop\c#\Adventcode\Day1\Solution B\obj\Debug\net7.0\Day1.csproj.CoreCompileInputs.cache
+C:\Users\osan51030\Desktop\c#\Adventcode\Day1\Solution B\obj\Debug\net7.0\Day1.dll
+C:\Users\osan51030\Desktop\c#\Adventcode\Day1\Solution B\obj\Debug\net7.0\refint\Day1.dll
+C:\Users\osan51030\Desktop\c#\Adventcode\Day1\Solution B\obj\Debug\net7.0\Day1.pdb
+C:\Users\osan51030\Desktop\c#\Adventcode\Day1\Solution B\obj\Debug\net7.0\Day1.genruntimeconfig.cache
+C:\Users\osan51030\Desktop\c#\Adventcode\Day1\Solution B\obj\Debug\net7.0\ref\Day1.dll
